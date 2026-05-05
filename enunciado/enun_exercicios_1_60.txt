@@ -176,4 +176,3 @@ Algoritmos /////////////////////////////////////////////////////////////////////
 59.	Crie um programa que ordene um array de 100 números aleatórios através do algoritmo “Insertion Sort”.
 
 60.	Crie uma função que ordene um array de 100 números aleatórios através do algoritmo “Selection Sort”.
-
