@@ -1,0 +1,39 @@
+Desenvolvimento de um jogo
+[Escolha apenas um]
+    •	Crie um programa que simule o jogo do papel/tesoura/pedra
+    •	Crie um programa que simule o jogo da forca
+    •	Crie um programa que simule o jogo da memória
+    •	Crie um programa que simule um jogo de apostas 
+    •	Crie um programa que simule um jogo da batalha naval
+    •	Crie um programa que simule uma corrida
+    •	Crie um programa que simule o jogo RogueLike
+
+O formando é livre de desenvolver outro jogo desde que solicitado e aprovado pelo formador.
+
+Análise de requisitos
+Prioridades dos Requisitos
+Para estabelecer a prioridade dos requisitos foram adotadas as denominações “essencial”, “importante” e “desejável”. 
+Essencial é o requisito sem o qual o sistema não entra em funcionamento. Requisitos essenciais são requisitos imprescindíveis, que têm que ser implementados impreterivelmente.
+Importante é o requisito sem o qual o sistema entra em funcionamento, mas de forma não satisfatória. Requisitos importantes devem ser implementados, mas, se não forem, o sistema poderá ser implantado e usado mesmo assim.
+Desejável é o requisito que não compromete as funcionalidades básicas do sistema, isto é, o sistema pode funcionar de forma satisfatória sem ele. Requisitos desejáveis são requisitos que podem ser deixados para versões posteriores do sistema, caso não haja tempo hábil para implementá-los na versão que está sendo especificada.
+
+Requisitos Funcionais
+Os requisitos funcionais foram definidos segundo um conjunto de reuniões presidenciais com as entidades interessadas assim como foram realizados vários brainstormings com diferentes colegas de turma que contribuíram para o aperfeiçoamento da aplicação.
+Encontra-se em anexo os documentos que serviram de suporte à elaboração dos requisitos funcionais do projecto.
+Requisitos mínimos
+
+[Identificar os requisitos mínimos que o jogo deverá suportar]
+
+Requisitos não funcionais
+Usabilidade
+Quando a informação a introduzir num sistema de informação é numerosa e/ou complexa, este tem que ter uma interface que seja esclarecedora e que ajude o utilizador a não cometer erros. Para garantir isso, o sistema está otimizado no sentido de simplificar a interação homem-máquina, sem descurar as funcionalidades do sistema que é manter toda a informação útil acessível aos utilizadores.
+
+Fiabilidade
+Para que um sistema de informação seja útil e viável a informação tem que ser mantida com o máximo de rigor e segurança. Assim, ao utilizar o sistema de informação, temos que ter a garantia que este esteja cuidadosamente configurado e mantido. Para isso é necessário que a informação existente possa ser alterada apenas e só pelos utilizadores que têm privilégios para tal e que através de uma boa usabilidade, o possa operar convenientemente.
+Dado que o projeto assenta no registo de dados é importante que o sistema de informação seja fiável. Os atores têm de se identificar com o sistema e não criar um elo de desconfiança actor/sistema. Os dados dos clientes têm de ser confidenciais, de modo a estabelecer um elevado grau de confiança estabelecimento/cliente.
+
+Desempenho
+A aplicação deverá ser a mais rápida possível colocando à disposição do utilizador as funcionalidades mais utilizadas.
+
+Manutenção
+A aplicação estará acompanhada por um manual de utilização que foca desde os aspetos mais básicos aos mais avançados do sistema. Deste modo, o sistema poderá ser corrigido em eventuais falhas e desenvolvido por pessoas com conhecimentos na área.
